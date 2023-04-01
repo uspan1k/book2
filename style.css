@@ -1,0 +1,152 @@
+h2 {
+text-align: center;
+font-size: 110%;
+}
+#main_text {
+	width: 1500px;
+	/* height: 200px; */
+	margin: 0 auto 110px auto;
+}
+.release-date, .update-date {
+  display: inline-block;
+  font-size: 18px;
+  line-height: 1.5;
+}
+.bolder {
+	font-weight: bolder;
+}
+#zagolovok {
+	font-weight: lighter;
+}
+.logo {
+	width: 480px;
+	margin: 150px 670px;
+}
+.zag {
+	font-size: 100%;
+	position: relative;
+	width: 670px;
+	left: 580px;
+	bottom: 150px;
+}
+.sunshine {
+	position: relative;
+	font-size: 200%;
+	bottom: 80px;
+}
+.by {
+	position: relative;
+	font-size: 100%;
+	bottom: 70px;
+}
+.harold {
+	position: relative;
+	font-size: 160%;
+	bottom: 50px;
+	font-weight: lighter;
+}
+.text {
+	position: relative;
+	left: 750px;
+	font-size: 80%;
+	bottom: 40px;
+}
+.span {
+	display: block;
+	max-width: 110px;
+	margin: 0 0 0 100px;
+}
+.style {
+	position: relative;
+	font-style: oblique;
+	left: 815px;
+}
+.main_text {
+	position: relative;
+	left: 810px;
+	top: 50px;
+}
+.musson{
+	display: block;
+	width: 100px;
+	margin: 0	0 0 70px;
+}
+.limited {
+	display: block;
+	width: 90px;
+	margin: 0	0 0 75px;
+}
+.content {
+	position: relative;
+	top: 110px;
+}
+.table {
+	position: relative;
+	width: 1500px;
+	margin: 150px auto 110px auto;
+	font-size: 20px;
+}
+.sunshine1 {
+	text-align: center;
+	font-size: 25px;
+	font-weight: lighter;
+}
+.chapter {
+	position: relative;
+	top: 50px;
+}
+.paragraph {
+	position: relative;
+	top: 60px;
+	width: 1500px;
+	/* height: 200px; */
+	margin: 0 auto 110px auto;
+}
+.it {
+	list-style-type: none;
+	display: block;
+	margin-top: 1em;
+  margin-bottom: 1em;
+}
+.even {
+	list-style-type: none;
+	display: block;
+	margin-top: 1em;
+  margin-bottom: 1em;
+}
+.in {
+	list-style-type: none;
+	display: block;
+	margin-top: 1em;
+  margin-bottom: 1em;
+}
+.charley {
+	list-style-type: none;
+	display: block;
+	margin-top: 1em;
+  margin-bottom: 1em;
+}
+.we {
+	list-style-type: none;
+	display: block;
+	margin-top: 1em;
+  margin-bottom: 1em;
+}
+.don {
+	list-style-type: none;
+	display: block;
+	margin-top: 1em;
+  margin-bottom: 1em;
+}
+.might {
+	list-style-type: none;
+	display: block;
+	margin-top: 1em;
+  margin-bottom: 1em;
+}
+.nachalo {
+	list-style-type: none;
+	display: block;
+	margin-top: 1em;
+  margin-bottom: 1em;
+}
